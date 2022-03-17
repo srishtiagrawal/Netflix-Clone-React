@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+* {
+  margin: 0;
+}
+.app {
+  background-color: #111;
+}
